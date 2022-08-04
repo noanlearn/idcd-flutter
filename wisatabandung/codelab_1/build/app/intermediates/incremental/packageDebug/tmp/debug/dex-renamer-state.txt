@@ -1,0 +1,4 @@
+#Thu Aug 04 23:04:22 ICT 2022
+base.0=C\:\\Users\\NOAN\\Documents\\Belajar\\Flutter\\idcd_flutter\\wisatabandung\\codelab_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
