@@ -1,4 +1,5 @@
 import 'package:codelab_3/detail_screen.dart';
+import 'package:codelab_3/main_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,10 +13,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Wisata Bandung',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: const DetailScreen(),
+      theme: ThemeData.light(),
+      // darkTheme: ThemeData.dark(),
+      home: const MainScreen(),
     );
   }
 }
